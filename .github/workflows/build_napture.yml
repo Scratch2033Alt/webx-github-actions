@@ -1,5 +1,6 @@
 name: Napture Nightly
 
+on: workflow_dispatch
 on:
   push:
     branches:
